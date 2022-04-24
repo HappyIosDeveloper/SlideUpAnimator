@@ -8,7 +8,7 @@ Simple Swift extension to slide views in your iOS application as easiest way pos
 
 1- Copy SlideUpAnimator.swift file to your project.
 
-2- Wright your desired objects parent view, then call '.slideUpViews(delay: 0.1)'
+2- write your desired objects parent view, then call '.slideUpViews(delay: 0.1)'
 
 ![](usage.png)
 
